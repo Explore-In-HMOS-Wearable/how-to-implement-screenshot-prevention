@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_protected",
+      "value": "#30D158"
+    },
+    {
+      "name": "color_exposed",
+      "value": "#FF453A"
+    },
+    {
+      "name": "color_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_text_secondary",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "color_card_bg",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "color_page_bg",
+      "value": "#000000"
+    }
+  ]
+}

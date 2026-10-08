@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "status_on",
+      "value": "ON"
+    },
+    {
+      "name": "status_off",
+      "value": "OFF"
+    },
+    {
+      "name": "status_caption",
+      "value": "Protection"
+    },
+    {
+      "name": "card_caption",
+      "value": "One-time code"
+    },
+    {
+      "name": "card_value",
+      "value": "482 213"
+    },
+    {
+      "name": "btn_enable",
+      "value": "Enable"
+    },
+    {
+      "name": "btn_disable",
+      "value": "Disable"
+    },
+    {
+      "name": "msg_blocked",
+      "value": "Screenshots are blocked"
+    },
+    {
+      "name": "msg_allowed",
+      "value": "Screenshots are allowed"
+    },
+    {
+      "name": "msg_permission_missing",
+      "value": "Permission missing"
+    },
+    {
+      "name": "msg_failed",
+      "value": "Failed %d"
+    },
+    {
+      "name": "msg_window_error",
+      "value": "Window error: %d"
+    }
+  ]
+}

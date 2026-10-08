@@ -1,0 +1,52 @@
+{
+  "float": [
+    {
+      "name": "ring_size",
+      "value": "72vp"
+    },
+    {
+      "name": "ring_stroke",
+      "value": "5vp"
+    },
+    {
+      "name": "font_status",
+      "value": "18fp"
+    },
+    {
+      "name": "font_code",
+      "value": "20fp"
+    },
+    {
+      "name": "font_button",
+      "value": "12fp"
+    },
+    {
+      "name": "font_caption",
+      "value": "10fp"
+    },
+    {
+      "name": "button_height",
+      "value": "30vp"
+    },
+    {
+      "name": "card_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "card_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "space_s",
+      "value": "4vp"
+    },
+    {
+      "name": "space_m",
+      "value": "6vp"
+    },
+    {
+      "name": "message_height",
+      "value": "14vp"
+    }
+  ]
+}
